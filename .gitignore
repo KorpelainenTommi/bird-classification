@@ -1,2 +1,6 @@
-xeno-canto-songs/
-xeno-canto.csv
+xeno-canto/
+
+#Exclude ffmpeg binaries
+ffmpeg*
+
+__pycache__
